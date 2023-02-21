@@ -1,4 +1,2 @@
 # Kenny-Yakala
-# Kenny-Yakala
-# Kenny-Yakala
-# Kenny-yi-Yakala-
+It is a simple game.
